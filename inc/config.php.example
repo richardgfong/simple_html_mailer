@@ -1,0 +1,6 @@
+<?php
+
+$tms_api_key = 'this is where you put your API key';
+$tms_base_uri = 'this is where you put the hostname including https for the tms instance you will use';
+
+?>
